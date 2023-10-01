@@ -13,6 +13,9 @@
 - **15000 строк**: [https://ledkov.org/texts/test_task_15000.txt](https://ledkov.org/texts/test_task_15000.txt)
 - **30000 строк**: [https://ledkov.org/texts/test_task_30000.txt](https://ledkov.org/texts/test_task_30000.txt)
 
+## Экран списка задач
+![](readme_assets/TextFilter.jpg)
+
 ## Технические особенности
 - Минимальная версия: **iOS 9.0**;
 - Архитектура: стандартная **MVC**;
