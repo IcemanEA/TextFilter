@@ -1,0 +1,34 @@
+/*
+ Localizable.strings
+ TextFilter
+ 
+ Created by Egor Ledkov on 02.04.2023.
+ 
+ */
+
+"StringsFilter.title" = "Text filter";
+
+"StringsFilter.TextField.url" = "Enter URL";
+"StringsFilter.TextField.filter" = "Enter filter text";
+"StringsFilter.Button.apply" = "Apply";
+"StringsFilter.Button.cancel" = "Cancel";
+
+"StringsFilter.Warning.noUrL" = "Please, enter URL address";
+
+"Alert.Title.error" = "Error";
+"Alert.Title.warning" = "Warning";
+"Alert.Button.ok" = "OK";
+
+"FilesManagerError.fileAlreadyExists" = "File already exists";
+"FilesManagerError.fileNotExist" = "File not found";
+"FilesManagerError.invalidDirectory" = "Invalid directory";
+"FilesManagerError.writtingFailed" = "Writting failed: ";
+"FilesManagerError.readingFailed" = "Reading failed: ";
+
+"NetworkError.invalidURL" = "Invalid URL";
+"NetworkError.noData" = "Cant't load data from Network";
+"NetworkError.noNetwork" = "Internet Error: ";
+
+"FilterServiceError.invalidComponentString" = "Invalid components String";
+"FilterServiceError.invalidRegex" = "Invalid reular expression";
+

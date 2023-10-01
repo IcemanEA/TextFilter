@@ -1,0 +1,34 @@
+/*
+ Localizable.strings
+ TextFilter
+ 
+ Created by Egor Ledkov on 02.04.2023.
+ 
+ */
+
+"StringsFilter.title" = "Фильтр строк";
+
+"StringsFilter.TextField.url" = "Введите адрес";
+"StringsFilter.TextField.filter" = "Введите строку для фильтрации";
+"StringsFilter.Button.apply" = "Применить";
+"StringsFilter.Button.cancel" = "Отменить";
+
+"StringsFilter.Warning.noUrL" = "Вы не указали адрес!";
+
+"Alert.Title.error" = "Ошибка";
+"Alert.Title.warning" = "Внимание";
+"Alert.Button.ok" = "Ок";
+
+"FilesManagerError.fileAlreadyExists" = "Файл уже существует";
+"FilesManagerError.fileNotExist" = "Файл не найден";
+"FilesManagerError.invalidDirectory" = "Неправильная директория";
+"FilesManagerError.writtingFailed" = "Ошибка записи: ";
+"FilesManagerError.readingFailed" = "Ошибка чтения: ";
+
+"NetworkError.invalidURL" = "Неверный URL адрес";
+"NetworkError.noData" = "Неверно загрузились данные из сети ";
+"NetworkError.noNetwork" = "Ошибка сети: ";
+
+"FilterServiceError.invalidComponentString" = "Не могу разнести данные на строки";
+"FilterServiceError.invalidRegex" = "Ошибка в строке фильтра";
+
